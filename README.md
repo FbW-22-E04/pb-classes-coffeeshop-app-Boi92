@@ -1,5 +1,7 @@
 ### Coffee Shop App
 
+https://github.com/FbW-22-E04/pb-classes-coffeeshop-app-OliveiraDCI
+
 Write a **class** called **CoffeeShop**, which has **three instance variables**:
 
 1.  **name** : a string (basically, of the shop)
