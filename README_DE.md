@@ -46,7 +46,10 @@ tcs.dueAmount() ➞ 0.0
 // no new orders taken, expect a zero payable
 
 tcs.cheapestItem() ➞ "lemonade"
-tcs.drinksOnly() ➞ ["orange juice", "lemonade", "cranberry juice", "pineapple juice", "lemon iced tea", "vanilla chai latte", "hot chocolate", "iced coffee"]
+tcs.drinksOnly() ➞ ["orange juice", "lemonade", "cranberry console.log(coffeeShopOne.addOrder("hot cocoa"));
+console.log(coffeeShopOne.addOrder("Affogato"));
+console.log(coffeeShopOne.addOrder("cinnamon roll"));
+console.log(coffeeShopOne.addOrder("cookie"));juice", "pineapple juice", "lemon iced tea", "vanilla chai latte", "hot chocolate", "iced coffee"]
 tcs.foodOnly() ➞ ["tuna sandwich", "ham and cheese sandwich", "bacon and egg", "steak", "hamburger", "cinnamon roll"]
 ```
 
